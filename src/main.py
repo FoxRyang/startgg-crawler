@@ -8,11 +8,12 @@ start.gg 사이트에서 특정 선수의 대회 참가/결과를 크롤링하�
 Python 3.11.9, gql, requests, pandas 등 사용
 """
 
+import os
+from typing import List, Dict, Any
+
 import requests
 import pandas as pd
-from typing import List, Dict, Any
 from dotenv import load_dotenv
-import os
 
 load_dotenv()
 PAT = os.getenv("STARTGG_API_TOKEN")

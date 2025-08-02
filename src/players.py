@@ -3,12 +3,15 @@ evo_entrants_crawler.py
 
 EVO 이벤트 전체 참가자(entrants) 리스트 크롤링
 """
+import os
+from typing import List, Dict, Any
 
 import requests
 import pandas as pd
-from typing import List, Dict, Any
+from dotenv import load_dotenv
 
-PAT = "my_tokken"  # 실제 PAT로 교체
+load_dotenv()
+PAT = os.getenv("STARTGG_API_TOKEN")
 STARTGG_API = "https://api.start.gg/gql/alpha"
 HEADERS = {
     "Content-Type": "application/json",
@@ -91,13 +94,18 @@ def get_all_entrants(event_id: int) -> List[Dict[str, Any]]:
 def save_entrants_to_csv(entrants: List[Dict[str, Any]], filename: str):
     rows = []
     for entrant in entrants:
-        name = entrant.get("name")
+        raw_name = entrant.get("name", "")
+        if "|" in raw_name:
+            team, player = map(str.strip, raw_name.split("|", 1))
+        else:
+            team, player = "", raw_name.strip()
         for part in entrant.get("participants", []):
-            gamerTag = part.get("gamerTag")
-            rows.append({"entrant_name": name, "gamerTag": gamerTag})
+            gamerTag = part.get("gamerTag", "")
+            rows.append({"Team": team, "name": player, "gamerTag": gamerTag})
     df = pd.DataFrame(rows)
     df.to_csv(filename, index=False, encoding="utf-8-sig")
     print(f"✅ 참가자 {len(df)}명 저장 완료: {filename}")
+
 
 def main():
     event_slug = "tournament/evo-2025/event/tekken-8"  # 예시 slug
