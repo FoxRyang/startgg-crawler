@@ -1,0 +1,21 @@
+my_name,loss_count,is_eliminated,first_losses,last_losses,next_match,last_standing
+watanabe,2,True,"{'phase': 'Round 3', 'fullRoundText': 'Losers Round 3', 'opponent': 'REJECT | Raef'}","{'phase': 'Round 2', 'fullRoundText': 'Winners Semi-Final', 'opponent': 'DNF | Meo-IL'}",,33.0
+double,2,True,"{'phase': 'Round 2', 'fullRoundText': 'Losers Round 4', 'opponent': 'NAVI | AK'}","{'phase': 'Round 2', 'fullRoundText': 'Winners Quarter-Final', 'opponent': 'Pulse | Tomoriru'}",,97.0
+shadow 20z,2,True,"{'phase': 'Round 3', 'fullRoundText': 'Losers Round 2', 'opponent': 'ZETA | WATANABE'}","{'phase': 'Round 2', 'fullRoundText': 'Winners Semi-Final', 'opponent': 'FATE | |KHAN'}",,49.0
+ikari,2,True,"{'phase': 'Round 3', 'fullRoundText': 'Losers Round 1', 'opponent': 'Liquid | Shadow 20z'}","{'phase': 'Round 2', 'fullRoundText': 'Winners Quarter-Final', 'opponent': 'TM | Hafiz Tanveer'}",,65.0
+keisuke,2,True,"{'phase': 'Round 3', 'fullRoundText': 'Losers Round 2', 'opponent': 'VIT JeonDDing'}","{'phase': 'Round 2', 'fullRoundText': 'Winners Semi-Final', 'opponent': 'MOUZ | K-Wiss'}",,49.0
+matsuba,2,True,"{'phase': 'Round 3', 'fullRoundText': 'Winners Quarter-Final', 'opponent': 'TeamYAMASA | NOBI'}","{'phase': 'Round 3', 'fullRoundText': 'Losers Round 3', 'opponent': 'RB | Anakin'}",,33.0
+rest,2,True,"{'phase': 'Round 3', 'fullRoundText': 'Losers Round 1', 'opponent': 'DRX | Knee'}","{'phase': 'Round 2', 'fullRoundText': 'Winners Quarter-Final', 'opponent': 'ONi | Xo'}",,65.0
+ao,2,True,"{'phase': 'Round 3', 'fullRoundText': 'Losers Round 2', 'opponent': 'CUBE | The Mayor'}","{'phase': 'Round 2', 'fullRoundText': 'Winners Semi-Final', 'opponent': 'T1 | EDGE'}",,49.0
+ryuichi.,2,True,"{'phase': 'Round 3', 'fullRoundText': 'Losers Round 1', 'opponent': 'DBP'}","{'phase': 'Round 2', 'fullRoundText': 'Winners Quarter-Final', 'opponent': 'PAR | JoeCrush'}",,65.0
+joka,2,True,"{'phase': 'Round 3', 'fullRoundText': 'Losers Round 2', 'opponent': 'DRX | Knee'}","{'phase': 'Round 2', 'fullRoundText': 'Winners Semi-Final', 'opponent': 'Wolves | Bilal'}",,49.0
+qudans,2,True,"{'phase': 'Round 3', 'fullRoundText': 'Losers Round 2', 'opponent': 'B-KUN'}","{'phase': 'Round 2', 'fullRoundText': 'Winners Semi-Final', 'opponent': 'REJECT | Raef'}",,49.0
+numan ch,2,True,"{'phase': 'Round 1', 'fullRoundText': 'Winners Round 2', 'opponent': 'Megakin'}","{'phase': 'Round 1', 'fullRoundText': 'Losers Round 1', 'opponent': 'crindash'}",,2049.0
+kingreyjr,2,True,"{'phase': 'Round 3', 'fullRoundText': 'Winners Quarter-Final', 'opponent': 'T1 | EDGE'}","{'phase': 'Round 3', 'fullRoundText': 'Losers Round 3', 'opponent': 'jimmyjtran'}",,33.0
+jeondding,2,True,"{'phase': 'Round 3', 'fullRoundText': 'Losers Round 3', 'opponent': 'Wolves | Bilal'}","{'phase': 'Round 2', 'fullRoundText': 'Winners Semi-Final', 'opponent': 'PAR | JoeCrush'}",,49.0
+ghirlanda,2,True,"{'phase': 'Round 3', 'fullRoundText': 'Losers Round 1', 'opponent': 'jimmyjtran'}","{'phase': 'Round 2', 'fullRoundText': 'Winners Quarter-Final', 'opponent': 'ZETA | WATANABE'}",,65.0
+ulsan,2,True,"{'phase': 'Round 3', 'fullRoundText': 'Winners Quarter-Final', 'opponent': 'JDCR'}","{'phase': 'Round 3', 'fullRoundText': 'Losers Round 3', 'opponent': 'Dawood Sikandar'}",,33.0
+take,2,True,"{'phase': 'Round 3', 'fullRoundText': 'Losers Round 1', 'opponent': 'Mr. Croft'}","{'phase': 'Round 2', 'fullRoundText': 'Winners Quarter-Final', 'opponent': 'OA | TennoIX'}",,65.0
+dawood sikandar,2,True,"{'phase': 'Round 3', 'fullRoundText': 'Losers Round 4', 'opponent': 'FATE | |KHAN'}","{'phase': 'Round 2', 'fullRoundText': 'Winners Semi-Final', 'opponent': 'TeamYAMASA | NOBI'}",,25.0
+shonen,2,True,"{'phase': 'Round 3', 'fullRoundText': 'Losers Round 1', 'opponent': 'NYC TKN|L&C | Fear Of Silence'}","{'phase': 'Round 2', 'fullRoundText': 'Winners Semi-Final', 'opponent': 'Falcons | Farzeen'}",,65.0
+knee,2,True,"{'phase': 'Round 3', 'fullRoundText': 'Losers Round 4', 'opponent': 'TM | Hafiz Tanveer'}","{'phase': 'Round 2', 'fullRoundText': 'Winners Semi-Final', 'opponent': 'BDS | Kirakira'}",,25.0

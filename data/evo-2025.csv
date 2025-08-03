@@ -1,0 +1,30 @@
+my_name,loss_count,is_eliminated,first_losses,last_losses,next_match,last_standing
+khan,1,False,"{'phase': 'Round 3', 'fullRoundText': 'Winners Quarter-Final', 'opponent': 'DNF | Meo-IL'}",[],"{'phase': 'Top 24', 'fullRoundText': 'Losers Round 1', 'opponent': 'DRX | CHANEL'}",
+jodd,1,False,"{'phase': 'Round 2', 'fullRoundText': 'Winners Semi-Final', 'opponent': 'Virtus.pro | Mangja'}",[],"{'phase': 'Round 3', 'fullRoundText': 'Losers Round 3', 'opponent': 'Mirage | Fergus'}",
+bilal,1,False,"{'phase': 'Round 3', 'fullRoundText': 'Winners Quarter-Final', 'opponent': 'BDS | Kirakira'}",[],"{'phase': 'Top 24', 'fullRoundText': 'Losers Round 1', 'opponent': 'VARREL | Rangchu'}",
+tibetano,1,False,"{'phase': 'Round 3', 'fullRoundText': 'Winners Semi-Final', 'opponent': 'TeamYAMASA | NOBI'}",[],"{'phase': 'Top 24', 'fullRoundText': 'Losers Round 1', 'opponent': ''}",
+yagami,1,False,"{'phase': 'Bracket', 'fullRoundText': 'Round 3', 'opponent': 'Grumble'}",[],,
+tetsu,2,True,"{'phase': 'Round 3', 'fullRoundText': 'Losers Round 1', 'opponent': 'ONIC | Strog'}","{'phase': 'Round 2', 'fullRoundText': 'Winners Quarter-Final', 'opponent': 'Dapper'}",,65.0
+eyemusician,1,False,"{'phase': 'Round 2', 'fullRoundText': 'Winners Semi-Final', 'opponent': 'Mirage | Fergus'}",[],"{'phase': 'Round 3', 'fullRoundText': 'Losers Round 4', 'opponent': 'Pulse | Tomoriru'}",
+kkokkoma,2,True,"{'phase': 'Round 3', 'fullRoundText': 'Losers Round 3', 'opponent': 'VARREL | PINYA'}","{'phase': 'Round 2', 'fullRoundText': 'Winners Semi-Final', 'opponent': 'TALON | Book'}",,33.0
+chikurin,0,False,[],[],"{'phase': 'Top 24', 'fullRoundText': 'Winners Quarter-Final', 'opponent': 'Falcons | ATIF'}",
+arslan ash,0,False,[],[],"{'phase': 'Top 24', 'fullRoundText': 'Winners Quarter-Final', 'opponent': 'DNF | Mulgold'}",
+nobi,0,False,[],[],"{'phase': 'Top 24', 'fullRoundText': 'Winners Quarter-Final', 'opponent': 'T1 | EDGE'}",
+edge,0,False,[],[],"{'phase': 'Top 24', 'fullRoundText': 'Winners Quarter-Final', 'opponent': 'TeamYAMASA | NOBI'}",
+shonen,2,True,"{'phase': 'Round 3', 'fullRoundText': 'Losers Round 1', 'opponent': 'NYC TKN|L&C | Fear Of Silence'}","{'phase': 'Round 2', 'fullRoundText': 'Winners Semi-Final', 'opponent': 'Falcons | Farzeen'}",,65.0
+ak,1,False,"{'phase': 'Round 2', 'fullRoundText': 'Winners Quarter-Final', 'opponent': 'STG | Fradin'}",[],"{'phase': 'Round 3', 'fullRoundText': 'Losers Round 4', 'opponent': 'TALON | Book'}",
+mangja,1,False,"{'phase': 'Round 3', 'fullRoundText': 'Winners Semi-Final', 'opponent': 'DNF | Mulgold'}",[],"{'phase': 'Top 24', 'fullRoundText': 'Losers Round 1', 'opponent': 'TM | Hafiz Tanveer'}",
+kirakira,1,False,"{'phase': 'Round 3', 'fullRoundText': 'Winners Semi-Final', 'opponent': 'T1 | EDGE'}",[],"{'phase': 'Top 24', 'fullRoundText': 'Losers Round 1', 'opponent': ''}",
+ilias,2,True,"{'phase': 'Round 3', 'fullRoundText': 'Winners Quarter-Final', 'opponent': 'Falcons | Farzeen'}","{'phase': 'Round 3', 'fullRoundText': 'Losers Round 3', 'opponent': 'NAVI | AK'}",,33.0
+meo-il,1,False,"{'phase': 'Round 3', 'fullRoundText': 'Winners Semi-Final', 'opponent': 'JDCR'}",[],"{'phase': 'Top 24', 'fullRoundText': 'Losers Round 1', 'opponent': ''}",
+pinya,1,False,"{'phase': 'Round 3', 'fullRoundText': 'Winners Quarter-Final', 'opponent': 'DRX | CHANEL'}",[],"{'phase': 'Round 3', 'fullRoundText': 'Losers Round 4', 'opponent': 'Ninjakilla_212'}",
+rangchu,1,False,"{'phase': 'Round 3', 'fullRoundText': 'Winners Semi-Final', 'opponent': 'THY | chikurin'}",[],"{'phase': 'Top 24', 'fullRoundText': 'Losers Round 1', 'opponent': 'Wolves | Bilal'}",
+atif,0,False,[],[],"{'phase': 'Top 24', 'fullRoundText': 'Winners Quarter-Final', 'opponent': 'THY | chikurin'}",
+danielmado,2,True,"{'phase': 'Round 3', 'fullRoundText': 'Losers Round 2', 'opponent': 'FATE | Jodd'}","{'phase': 'Round 2', 'fullRoundText': 'Winners Semi-Final', 'opponent': 'DNF | CBM'}",,49.0
+farzeen,1,False,"{'phase': 'Round 3', 'fullRoundText': 'Winners Semi-Final', 'opponent': 'Falcons | ATIF'}",[],"{'phase': 'Top 24', 'fullRoundText': 'Losers Round 1', 'opponent': 'REJECT | Raef'}",
+lowhigh,0,False,[],[],"{'phase': 'Top 24', 'fullRoundText': 'Winners Quarter-Final', 'opponent': 'JDCR'}",
+chanel,1,False,"{'phase': 'Round 3', 'fullRoundText': 'Winners Semi-Final', 'opponent': 'TM | RB | Arslan Ash'}",[],"{'phase': 'Top 24', 'fullRoundText': 'Losers Round 1', 'opponent': 'FATE | |KHAN'}",
+book,1,False,"{'phase': 'Round 3', 'fullRoundText': 'Winners Quarter-Final', 'opponent': 'Falcons | ATIF'}",[],"{'phase': 'Round 3', 'fullRoundText': 'Losers Round 4', 'opponent': 'NAVI | AK'}",
+cbm,2,True,"{'phase': 'Round 3', 'fullRoundText': 'Winners Quarter-Final', 'opponent': 'Virtus.pro | Mangja'}","{'phase': 'Round 3', 'fullRoundText': 'Losers Round 3', 'opponent': 'T1 | eyemusician'}",,33.0
+mulgold,0,False,[],[],"{'phase': 'Top 24', 'fullRoundText': 'Winners Quarter-Final', 'opponent': 'TM | RB | Arslan Ash'}",
+wecka,2,True,"{'phase': 'Round 3', 'fullRoundText': 'Losers Round 2', 'opponent': 'Mr. Croft'}","{'phase': 'Round 2', 'fullRoundText': 'Winners Quarter-Final', 'opponent': 'KINOTROPE | shonen'}",,49.0
